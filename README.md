@@ -1,0 +1,2 @@
+# Devops
+#palindome using python
